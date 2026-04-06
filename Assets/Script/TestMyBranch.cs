@@ -6,6 +6,7 @@ public class TestMyBranch : MonoBehaviour
     void Start()
     {
         Debug.Log("hello");
+        Debug.Log("hello");
     }
 
     // Update is called once per frame
